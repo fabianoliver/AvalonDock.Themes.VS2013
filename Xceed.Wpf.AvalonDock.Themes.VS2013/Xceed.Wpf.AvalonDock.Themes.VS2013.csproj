@@ -9,7 +9,7 @@
     <OutputType>library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Xceed.Wpf.AvalonDock.Themes.VS2013</RootNamespace>
-    <AssemblyName>Xceed.Wpf.AvalonDock.Themes.VS2013</AssemblyName>
+    <AssemblyName>ExcelCode.Forks.Xceed.Wpf.AvalonDock.Themes.VS2013</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>
@@ -153,7 +153,7 @@
     <None Include="packages.config">
       <SubType>Designer</SubType>
     </None>
-    <None Include="Xceed.Wpf.AvalonDock.Themes.VS2013.nuspec" />
+    <None Include="ExcelCode.Forks.Xceed.Wpf.AvalonDock.Themes.VS2013.nuspec" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
