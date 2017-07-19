@@ -23,7 +23,7 @@ namespace Xceed.Wpf.AvalonDock.Themes
         public override Uri GetResourceUri()
         {
             return new Uri(
-                "/Xceed.Wpf.AvalonDock.Themes.VS2013;component/LightTheme.xaml", 
+                "/ExcelCode.Forks.Xceed.Wpf.AvalonDock.Themes.VS2013;component/LightTheme.xaml", 
                 UriKind.Relative);  
         }
     }
